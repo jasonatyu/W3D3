@@ -1,0 +1,21 @@
+html, body, div, span, h1, h2, h3, p, 
+a, img, ol, ul, li, form, label, legend,
+table, caption, aside, figure, figcaption, footer, header, section {
+	margin: 0;
+	padding: 0;
+	border: 0;
+    font: inherit;
+   
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    line-height: 1.5;
+}
+
+img {
+    width: inherit;
+}
